@@ -1,0 +1,13 @@
+[class*='col']{
+	background-color: rgba(222, 222, 0, .4);
+	border: 2px solid blue;
+}
+
+.row{
+	border: 2px solid black;
+	background-color: rgba(100, 100, 222, .4);
+}
+
+.height{
+	min-height: 100px;
+}
